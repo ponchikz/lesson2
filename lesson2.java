@@ -1,3 +1,4 @@
+//24.04.22//
 public class lesson2 {
     public static void main(String[] args) {
         System.out.println(sum(5, 15));
